@@ -1,6 +1,5 @@
-Hi! 
 
-I am Hasan and I am a Flutter developer
+Flutter developer
 
 <a href="https://medium.com/@hasaneke">Medium</a>
 
