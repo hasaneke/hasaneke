@@ -1,6 +1,8 @@
 
 Hey! I am Hasan and I am a mobile application developer
 
+About me:
+
  - Computer engineerings student at AYBU college in Ankara.
  - Developing cross mobile applications with Flutter/Dart technology
  - Writing tech articles on Medium
