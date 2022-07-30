@@ -1,5 +1,5 @@
 
-Hey! I am Hasan and I am a mobile application developer. I have been developing Flutter apps for two years. I have developed native android apps as well.
+Hey! I am Hasan and I am a mobile application developer. I have been developing Flutter apps for two years and also have developed native android apps as well.
 
 About me:
 
