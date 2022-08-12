@@ -21,7 +21,8 @@
 </div>
 </div>
 <div>
----
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 ### :technologist: About Me :
   
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
