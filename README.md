@@ -23,7 +23,7 @@
 <div>
 ---------------------------------------------------------------------------------------------------------------------------------------------------
   
-### :technologist: About Me :
+:technologist: About Me :
   
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
 - :telescope: Developing cross platform applications with Flutter/Dart
@@ -43,7 +43,8 @@ I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlp
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
 </div>
  </div>
- ### :fire: My Stats :
+ 
+:fire: My Stats :
 
 
 
