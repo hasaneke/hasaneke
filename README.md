@@ -26,7 +26,7 @@
 :technologist: About Me :
   
 I am a Mobile Application Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Turkey.
-- :telescope: Developing cross platform applications with Flutter/Dart
+- :telescope: Developing cross platform applications with Flutter/Dart and currently learning Kotlin
 
 - :seedling: Studying computer engineering 
 
